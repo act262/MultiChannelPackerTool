@@ -1,0 +1,8 @@
+/.idea
+/.gradle
+/build
+/captures
+/opt
+/out
+/apks
+*.iml
